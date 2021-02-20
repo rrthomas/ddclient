@@ -32,8 +32,9 @@ Dynamic DNS services currently supported include:
     ClouDNS     - See https://www.cloudns.net
     dinahosting - See https://dinahosting.com
     Gandi       - See https://gandi.net
+    Mythic Beasts - See https://www.mythic-beasts.com/support/api/dnsv2/dynamic-dns for details
 
-DDclient now supports many of cable/dsl broadband routers.
+DDclient now supports many cable/DSL broadband routers.
 
 Comments, suggestions and requests: use the issues on https://github.com/ddclient/ddclient/issues/new
 
